@@ -159,7 +159,7 @@
 *June 2015 – April 2019*
 - Shipped commercial titles across PC (Steam) and mobile:
   - **Idol Hands:** [Steam Store](https://store.steampowered.com/app/345750/Idol_Hands/)
-  - **Knights & Dragons Action RPG:** [Google Play Store](https://play.google.com/store/apps/details?id=com.iugome.lilknights&hl=en)
+  - **Knights & Dragons Action RPG:** [Google Play Store](https://play.google.com/store/apps/details?id=com.iugome.lilknights&hl=en) • [Apple App Store](https://apps.apple.com/us/app/knights-dragons-rpg/id539793374)
   - **Godspeed Cricket League**
 - Shipped 10+ live-ops feature updates and bug-fix releases for client-side *Knights and Dragons* (JetSynthesys).
 - Worked on-site at GREE (San Francisco) during live-ops cycles, managing technical handoffs between engineering teams in Berlin, Pune, and San Francisco.
