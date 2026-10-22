@@ -71,10 +71,11 @@
     <tr>
       <td>
         <a href="https://github.com/dj-DeepakJadhav/Vane"><b>Vane</b></a><br>
-        <code>C++20</code> <code>CMake</code> <code>Google Benchmark</code>
+        <code>C++20</code> <code>CMake</code> <code>Google Benchmark</code><br>
+        <a href="https://youtu.be/VNoRM0nmr0o"><b>Video Demo</b></a>
       </td>
       <td>
-        High-throughput C++ systems library focused on low-latency hardware instruction dispatch and reproducible microbenchmarks.
+        High-throughput C++ systems library focused on low-latency hardware instruction dispatch and reproducible microbenchmarks across Arm architectures.
       </td>
       <td>
         <b>Systems Engineering</b><br>
@@ -110,10 +111,11 @@
     <tr>
       <td>
         <a href="https://github.com/dj-DeepakJadhav/FarFromHome"><b>FarFromHome</b></a><br>
-        <code>JavaScript</code> <code>WebGL</code> <code>HTML5 Canvas</code>
+        <code>JavaScript</code> <code>WebGL</code> <code>Three.js</code><br>
+        <a href="https://dj-deepakjadhav.github.io/FarFromHome/"><b>Play Live</b></a> • <a href="https://youtu.be/3QrTLmPPLh4"><b>Video Demo</b></a>
       </td>
       <td>
-        Interactive game prototype exercising 2D/3D projection maths, frame-rate independent gameplay state machines, and collision loops.
+        Narrative courier-management sim featuring a procedural Three.js 3D Lübeck diorama, grammatical-gender sorting mechanics, and standalone offline execution.
       </td>
       <td>
         <b>Game Development</b><br>
