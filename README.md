@@ -85,7 +85,8 @@
     <tr>
       <td>
         <a href="https://github.com/dj-DeepakJadhav/origin-provenance"><b>origin-provenance</b></a><br>
-        <code>Python</code> <code>SQLite</code> <code>Migrations</code>
+        <code>Python</code> <code>SQLite</code> <code>Migrations</code><br>
+        <a href="https://youtu.be/2YOQl2g6Jy8"><b>Video Demo</b></a>
       </td>
       <td>
         Deterministic execution tracking and state provenance engine for AI agent run loops and auditability.
@@ -98,7 +99,8 @@
     <tr>
       <td>
         <a href="https://github.com/dj-DeepakJadhav/acrevoice-farmer-support"><b>acrevoice-farmer-support</b></a><br>
-        <code>Python</code> <code>FastAPI</code> <code>Speech Pipelines</code>
+        <code>Python</code> <code>FastAPI</code> <code>Speech Pipelines</code><br>
+        <a href="https://youtu.be/ZXHLFSGGpHI"><b>Video Demo</b></a>
       </td>
       <td>
         Voice-first operational workflow integrating speech transcription, LLM processing, and structured human review checkpoints.
