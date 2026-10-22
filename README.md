@@ -2,48 +2,57 @@
 
 <p align="left">
   <strong>Senior Software Engineer • Simulation & Real-Time Systems • Game & XR Developer</strong><br>
-  Based in Lübeck, Germany (Open to hybrid / remote)
+  Lübeck, Germany • Open to hybrid / remote
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deejadhav">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-deejadhav-334155?style=flat-square&logo=linkedin&logoColor=cbd5e1" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:djadhav.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-djadhav.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-djadhav.dev%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=cbd5e1" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Technical Skills
 
 <p align="left">
-  <strong>Core Languages</strong><br>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <strong>Languages & Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=cbd5e1" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-334155?style=flat-square&logo=csharp&logoColor=cbd5e1" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=cbd5e1" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-334155?style=flat-square&logo=go&logoColor=cbd5e1" alt="Go" />
+  <img src="https://img.shields.io/badge/Kotlin-334155?style=flat-square&logo=kotlin&logoColor=cbd5e1" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-334155?style=flat-square&logo=swift&logoColor=cbd5e1" alt="Swift" />
+  <img src="https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=cbd5e1" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-334155?style=flat-square&logo=dart&logoColor=cbd5e1" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=cbd5e1" alt="JavaScript" />
 </p>
 
 <p align="left">
   <strong>Engines, Graphics & Simulation</strong><br>
-  <img src="https://img.shields.io/badge/Unity_3D-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/MuJoCo_Physics-333333?style=flat-square" alt="MuJoCo" />
+  <img src="https://img.shields.io/badge/Unity_3D-334155?style=flat-square&logo=unity&logoColor=cbd5e1" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-334155?style=flat-square&logo=unrealengine&logoColor=cbd5e1" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Godot-334155?style=flat-square&logo=godotengine&logoColor=cbd5e1" alt="Godot" />
+  <img src="https://img.shields.io/badge/Omniverse-334155?style=flat-square&logo=nvidia&logoColor=cbd5e1" alt="Omniverse" />
+  <img src="https://img.shields.io/badge/OpenGL-334155?style=flat-square&logo=opengl&logoColor=cbd5e1" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Qt-334155?style=flat-square&logo=qt&logoColor=cbd5e1" alt="Qt" />
+  <img src="https://img.shields.io/badge/Blender-334155?style=flat-square&logo=blender&logoColor=cbd5e1" alt="Blender" />
+  <img src="https://img.shields.io/badge/MuJoCo-334155?style=flat-square" alt="MuJoCo" />
 </p>
 
 <p align="left">
   <strong>Platforms & Infrastructure</strong><br>
-  <img src="https://img.shields.io/badge/Android_Automotive_OS-3DDC84?style=flat-square&logo=android&logoColor=white" alt="AAOS" />
-  <img src="https://img.shields.io/badge/Meta_Quest_XR-0081FB?style=flat-square&logo=meta&logoColor=white" alt="Meta Quest" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Android_Automotive_(AAOS)-334155?style=flat-square&logo=android&logoColor=cbd5e1" alt="AAOS" />
+  <img src="https://img.shields.io/badge/XR_(Meta_Quest_/_HoloLens)-334155?style=flat-square&logo=meta&logoColor=cbd5e1" alt="XR" />
+  <img src="https://img.shields.io/badge/Azure_Digital_Twins-334155?style=flat-square&logo=microsoftazure&logoColor=cbd5e1" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=cbd5e1" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-334155?style=flat-square&logo=jenkins&logoColor=cbd5e1" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/CMake-334155?style=flat-square&logo=cmake&logoColor=cbd5e1" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=cbd5e1" alt="Git" />
 </p>
 
 ---
@@ -53,8 +62,8 @@
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description & Architecture</th>
+      <th width="32%">Project</th>
+      <th width="48%">Architecture & Implementation</th>
       <th width="20%">Target Domain</th>
     </tr>
   </thead>
