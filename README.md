@@ -125,13 +125,14 @@
 
 ---
 
-### Experience
+### Experience & Production Deliveries
 
-#### Senior Software Engineer | Gestigon (Lübeck, Germany)
+#### Senior Software Engineer | Gestigon (Acquired by Majelan X) (Lübeck, Germany)
 *January 2024 – Present*
-- Architected the end-to-end software stack for real-time automotive HMI running on Android Automotive OS (AAOS).
+- Architected the real-time automotive HMI software stack running on Android Automotive OS (AAOS).
 - Built C++ and Go backends to ingest vehicle telemetry, route sensor payloads, and serve navigation interfaces via HERE Maps.
-- Developed cross-platform iOS and Android companion mobile applications for audio streaming over REST and OpenAPI endpoints.
+- Developed and deployed companion audio-streaming mobile applications interfacing with core automotive services over REST and OpenAPI:
+  - **Majelan X (mX Automotive):** [Google Play Store](https://play.google.com/store/apps/details?id=com.majelan.mxds&hl=en) • [Apple App Store](https://apps.apple.com/de/app/majelanx/id6753216183?l=en-GB)
 - Delivered 12 consecutive two-week sprints with 95% on-time completion; showcased the platform at CES 2025 to OEM partners.
 
 #### Senior Software Analyst | Avanade (Frankfurt, Germany)
@@ -143,8 +144,11 @@
 
 #### XR Developer | Animares GmbH (Bonn, Germany)
 *September 2019 – February 2022*
-- Programmed 3D anatomical visualization modules in Unity and Unreal Engine for medical education apps (*Insight Heart*, *Insight Lung*).
-- Deployed real-time spatial applications on Microsoft HoloLens (1 & 2), Magic Leap, and mobile AR platforms.
+- Programmed 3D anatomical visualization modules in Unity and Unreal Engine, deploying interactive AR/MR applications across iOS, Android, Microsoft HoloLens (1 & 2), and Magic Leap:
+  - **INSIGHT HEART:** [Google Play Store](https://play.google.com/store/apps/details?id=com.animares.heart&hl=en) • [Apple App Store](https://apps.apple.com/de/app/insight-heart/id1280845473)
+  - **INSIGHT LUNG:** [Google Play Store](https://play.google.com/store/apps/details?id=com.animares.lung) • [Apple App Store](https://apps.apple.com/de/app/insight-lung/id1283081244)
+  - **INSIGHT KIDNEY:** [Google Play Store](https://play.google.com/store/apps/details?id=com.animares.insightkidney) • [Apple App Store](https://apps.apple.com/de/app/insight-kidney/id1283128592)
+  - **INSIGHT BONE:** [Google Play Store](https://play.google.com/store/apps/details?id=com.animares.bone) • [Apple App Store](https://apps.apple.com/de/app/insight-bone/id1528192076)
 - Implemented scientific and physiological models directly from medical specifications into real-time render loops.
 
 #### Senior Analyst Application Developer | Accenture (Pune, India)
@@ -153,6 +157,9 @@
 
 #### Game Developer | Godspeed Games / JetSynthesys / GREE (Pune, India & San Francisco, USA)
 *June 2015 – April 2019*
-- Shipped commercial mobile and PC titles, including *Idol Hands* and *Godspeed Cricket League*.
-- Shipped 10+ feature updates and bug-fix releases for client-side *Knights and Dragons* (JetSynthesys).
+- Shipped commercial titles across PC (Steam) and mobile:
+  - **Idol Hands:** [Steam Store](https://store.steampowered.com/app/345750/Idol_Hands/)
+  - **Knights & Dragons Action RPG:** [Google Play Store](https://play.google.com/store/apps/details?id=com.iugome.lilknights&hl=en)
+  - **Godspeed Cricket League**
+- Shipped 10+ live-ops feature updates and bug-fix releases for client-side *Knights and Dragons* (JetSynthesys).
 - Worked on-site at GREE (San Francisco) during live-ops cycles, managing technical handoffs between engineering teams in Berlin, Pune, and San Francisco.
