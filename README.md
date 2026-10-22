@@ -17,7 +17,7 @@
 
 ---
 
-### 🧰 Technical Skills
+### Technical Skills
 
 <p align="left">
   <strong>Languages & Frameworks</strong><br>
@@ -57,7 +57,7 @@
 
 ---
 
-### 🚀 Public Repositories & Implementations
+### Public Repositories & Implementations
 
 <table>
   <thead>
@@ -125,7 +125,7 @@
 
 ---
 
-### 💼 Experience
+### Experience
 
 #### Senior Software Engineer | Gestigon (Lübeck, Germany)
 *January 2024 – Present*
