@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Senior Software Engineer • Simulation & Real-Time Systems • Game & XR Developer</strong><br>
-  Lübeck, Germany • Open to hybrid / remote
+  Based in Lübeck, Germany • Open to Remote, Hybrid, and On-Site roles across Germany and Europe
 </p>
 
 <p align="left">
@@ -47,7 +47,7 @@
 <p align="left">
   <strong>Platforms & Infrastructure</strong><br>
   <img src="https://img.shields.io/badge/Android_Automotive_(AAOS)-334155?style=flat-square&logo=android&logoColor=cbd5e1" alt="AAOS" />
-  <img src="https://img.shields.io/badge/XR_(Meta_Quest_/_HoloLens)-334155?style=flat-square&logo=meta&logoColor=cbd5e1" alt="XR" />
+  <img src="https://img.shields.io/badge/XR_(Meta_Quest_/_HoloLens_2)-334155?style=flat-square&logo=meta&logoColor=cbd5e1" alt="XR" />
   <img src="https://img.shields.io/badge/Azure_Digital_Twins-334155?style=flat-square&logo=microsoftazure&logoColor=cbd5e1" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=cbd5e1" alt="Docker" />
   <img src="https://img.shields.io/badge/Jenkins-334155?style=flat-square&logo=jenkins&logoColor=cbd5e1" alt="Jenkins" />
@@ -127,18 +127,32 @@
 
 ### 💼 Experience
 
-- **Senior Software Engineer | Gestigon (Lübeck, Germany)**  
-  *Jan 2024 – Present*  
-  Delivered full-stack software for automotive HMI systems, C++ and Go backends, and AI dashboard companion services on Android Automotive OS (AAOS). Showcased at CES 2025.
+#### Senior Software Engineer | Gestigon (Lübeck, Germany)
+*January 2024 – Present*
+- Architected the end-to-end software stack for real-time automotive HMI running on Android Automotive OS (AAOS).
+- Built C++ and Go backends to ingest vehicle telemetry, route sensor payloads, and serve navigation interfaces via HERE Maps.
+- Developed cross-platform iOS and Android companion mobile applications for audio streaming over REST and OpenAPI endpoints.
+- Delivered 12 consecutive two-week sprints with 95% on-time completion; showcased the platform at CES 2025 to OEM partners.
 
-- **Senior Software Analyst | Avanade (Frankfurt, Germany)**  
-  *Mar 2022 – Dec 2023*  
-  Built digital twin simulations and 3D operational environments using Unreal Engine (C++) and Unity. Connected hardware sensor telemetry with Azure Digital Twins; deployed XR solutions for HoloLens 2 and Meta Quest.
+#### Senior Software Analyst | Avanade (Frankfurt, Germany)
+*March 2022 – December 2023*
+- Built real-time Digital Twin simulation environments in Unreal Engine (C++) and Unity, backed by .NET web services.
+- Implemented cloud telemetry pipelines via Azure Digital Twins to synchronize live sensor feeds with 3D virtual models.
+- Built mixed-reality visualizers on HoloLens 2 and Meta Quest for enterprise facility inspection and telemetry display.
+- Converted client operational requirements into technical architecture specifications and milestone plans.
 
-- **XR Developer | Animares GmbH (Bonn, Germany)**  
-  *Sep 2019 – Feb 2022*  
-  Built medical and pharmaceutical AR/VR applications (Insight Heart, Insight Lung) on HoloLens and Magic Leap.
+#### XR Developer | Animares GmbH (Bonn, Germany)
+*September 2019 – February 2022*
+- Programmed 3D anatomical visualization modules in Unity and Unreal Engine for medical education apps (*Insight Heart*, *Insight Lung*).
+- Deployed real-time spatial applications on Microsoft HoloLens (1 & 2), Magic Leap, and mobile AR platforms.
+- Implemented scientific and physiological models directly from medical specifications into real-time render loops.
 
-- **Game Developer | Godspeed Games / JetSynthesys / GREE (Pune, India / San Francisco, USA)**  
-  *Jun 2015 – Apr 2019*  
-  Implemented gameplay loops, AI behaviors, math/physics optimization, and live-ops releases for commercial titles.
+#### Senior Analyst Application Developer | Accenture (Pune, India)
+*May 2019 – August 2019*
+- Built enterprise Digital Twin applications combining Angular frontends with embedded Unity 3D viewports.
+
+#### Game Developer | Godspeed Games / JetSynthesys / GREE (Pune, India & San Francisco, USA)
+*June 2015 – April 2019*
+- Shipped commercial mobile and PC titles, including *Idol Hands* and *Godspeed Cricket League*.
+- Shipped 10+ feature updates and bug-fix releases for client-side *Knights and Dragons* (JetSynthesys).
+- Worked on-site at GREE (San Francisco) during live-ops cycles, managing technical handoffs between engineering teams in Berlin, Pune, and San Francisco.
