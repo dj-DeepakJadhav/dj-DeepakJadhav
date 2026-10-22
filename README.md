@@ -7,11 +7,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deejadhav">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-deejadhav-1e293b?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:djadhav.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-38BDF8?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-djadhav.dev%40gmail.com-1e293b?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
@@ -21,38 +21,38 @@
 
 <p align="left">
   <strong>Languages & Frameworks</strong><br>
-  <img src="https://img.shields.io/badge/C%2B%2B-38BDF8?style=flat-square&logo=cplusplus&logoColor=white&labelColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-38BDF8?style=flat-square&logo=csharp&logoColor=white&labelColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-38BDF8?style=flat-square&logo=go&logoColor=white&labelColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Kotlin-38BDF8?style=flat-square&logo=kotlin&logoColor=white&labelColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Swift-38BDF8?style=flat-square&logo=swift&logoColor=white&labelColor=F05138" alt="Swift" />
-  <img src="https://img.shields.io/badge/Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-38BDF8?style=flat-square&logo=dart&logoColor=white&labelColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1e293b?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-1e293b?style=flat-square&logo=csharp&logoColor=239120" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-1e293b?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-1e293b?style=flat-square&logo=swift&logoColor=F05138" alt="Swift" />
+  <img src="https://img.shields.io/badge/Flutter-1e293b?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-1e293b?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
 <p align="left">
   <strong>Engines, Graphics & Simulation</strong><br>
-  <img src="https://img.shields.io/badge/Unity_3D-38BDF8?style=flat-square&logo=unity&logoColor=white&labelColor=000000" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-38BDF8?style=flat-square&logo=unrealengine&logoColor=white&labelColor=0E1128" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Godot-38BDF8?style=flat-square&logo=godotengine&logoColor=white&labelColor=478CBF" alt="Godot" />
-  <img src="https://img.shields.io/badge/Omniverse-38BDF8?style=flat-square&logo=nvidia&logoColor=white&labelColor=76B900" alt="Omniverse" />
-  <img src="https://img.shields.io/badge/OpenGL-38BDF8?style=flat-square&logo=opengl&logoColor=white&labelColor=5586A4" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Qt-338BDF8?style=flat-square&logo=qt&logoColor=white&labelColor=41CD52" alt="Qt" />
-  <img src="https://img.shields.io/badge/Blender-38BDF8?style=flat-square&logo=blender&logoColor=white&labelColor=E87D0D" alt="Blender" />
-  <img src="https://img.shields.io/badge/MuJoCo-38BDF8?style=flat-square&labelColor=1e293b" alt="MuJoCo" />
+  <img src="https://img.shields.io/badge/Unity_3D-1e293b?style=flat-square&logo=unity&logoColor=ffffff" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-1e293b?style=flat-square&logo=unrealengine&logoColor=ffffff" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Godot-1e293b?style=flat-square&logo=godotengine&logoColor=478CBF" alt="Godot" />
+  <img src="https://img.shields.io/badge/Omniverse-1e293b?style=flat-square&logo=nvidia&logoColor=76B900" alt="Omniverse" />
+  <img src="https://img.shields.io/badge/OpenGL-1e293b?style=flat-square&logo=opengl&logoColor=5586A4" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Qt-1e293b?style=flat-square&logo=qt&logoColor=41CD52" alt="Qt" />
+  <img src="https://img.shields.io/badge/Blender-1e293b?style=flat-square&logo=blender&logoColor=E87D0D" alt="Blender" />
+  <img src="https://img.shields.io/badge/MuJoCo-1e293b?style=flat-square" alt="MuJoCo" />
 </p>
 
 <p align="left">
   <strong>Platforms & Infrastructure</strong><br>
-  <img src="https://img.shields.io/badge/Android_Automotive_(AAOS)-38BDF8?style=flat-square&logo=android&logoColor=white&labelColor=3DDC84" alt="AAOS" />
-  <img src="https://img.shields.io/badge/Meta_Quest_XR-38BDF8?style=flat-square&logo=meta&logoColor=white&labelColor=0081FB" alt="Meta Quest" />
-  <img src="https://img.shields.io/badge/Azure_Digital_Twins-38BDF8?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0078D4" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-38BDF8?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-38BDF8?style=flat-square&logo=jenkins&logoColor=white&labelColor=D24939" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/CMake-38BDF8?style=flat-square&logo=cmake&logoColor=white&labelColor=064F8C" alt="CMake" />
-  <img src="https://img.shields.io/badge/Git-38BDF8?style=flat-square&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Android_Automotive_(AAOS)-1e293b?style=flat-square&logo=android&logoColor=3DDC84" alt="AAOS" />
+  <img src="https://img.shields.io/badge/XR_(Meta_Quest_/_HoloLens_2)-1e293b?style=flat-square&logo=meta&logoColor=0081FB" alt="XR" />
+  <img src="https://img.shields.io/badge/Azure_Digital_Twins-1e293b?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-1e293b?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/CMake-1e293b?style=flat-square&logo=cmake&logoColor=064F8C" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 ---
