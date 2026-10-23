@@ -70,6 +70,22 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/dj-DeepakJadhav/Vouch"><b>Vouch</b></a><br>
+        <code>Flutter / Dart</code> <code>Serverpod</code> <code>Python</code><br>
+        <code>PostgreSQL</code> <code>AWS Lambda / S3</code><br>
+        <a href="https://www.youtube.com/watch?v=jYufozuG1n8">Demo video</a> ·
+        <a href="https://github.com/dj-DeepakJadhav/Vouch/blob/main/submission/architecture/README.md">Architecture</a>
+      </td>
+      <td>
+        Household permissions for custom MCP tools: signed speaker evidence, policy checks and single-use owner approvals. Optional local speech processing keeps audio and voiceprints on the hub; AWS Lambda reviews exported audit metadata and stores private S3 reports. The Alexa+ client and owner-phone interface are simulated. MIT licensed.
+      </td>
+      <td>
+        Voice permissions<br>
+        Backend engineering
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/dj-DeepakJadhav/Vane"><b>Vane</b></a><br>
         <code>C++20</code> <code>CMake</code> <code>Google Benchmark</code><br>
         <a href="https://youtu.be/VNoRM0nmr0o"><b>Video Demo</b></a>
