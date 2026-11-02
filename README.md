@@ -70,6 +70,21 @@
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/dj-DeepakJadhav/chumi"><b>Chumi: Chat Came Over</b></a><br>
+        <code>JavaScript</code> <code>Three.js</code> <code>MediaPipe</code><br>
+        <code>Node.js</code> <code>Twitch EventSub</code><br>
+        <a href="https://youtu.be/QaMRDGCyrWg"><b>Video Demo</b></a>
+      </td>
+      <td>
+        Twitch chat companion: viewers send <code>!snack</code>, <code>!surprise</code> and <code>!cheer</code>, and a procedural Three.js character hops onto the streamer's real palm using hand tracking that runs locally in the browser. Per-viewer cooldowns and a bounded queue limit chat input; the streamer can pause, dismiss or mute interactions, and an OBS-ready window keeps controls off stream. Built with OpenAI Codex; 35 automated tests.
+      </td>
+      <td>
+        <b>Real-Time Interaction</b><br>
+        <b>Creator Tools</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/dj-DeepakJadhav/Vouch"><b>Vouch</b></a><br>
         <code>Flutter / Dart</code> <code>Serverpod</code> <code>Python</code><br>
         <code>PostgreSQL</code> <code>AWS Lambda / S3</code><br>
