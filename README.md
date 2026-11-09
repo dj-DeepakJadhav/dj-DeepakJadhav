@@ -17,47 +17,7 @@
 
 ---
 
-### Technical Skills
-
-<p align="left">
-  <strong>Languages & Frameworks</strong><br>
-  <img src="https://img.shields.io/badge/C%2B%2B-2d3748?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=1a202c" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-2d3748?style=flat-square&logo=csharp&logoColor=239120&labelColor=1a202c" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-2d3748?style=flat-square&logo=python&logoColor=3776AB&labelColor=1a202c" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-2d3748?style=flat-square&logo=go&logoColor=00ADD8&labelColor=1a202c" alt="Go" />
-  <img src="https://img.shields.io/badge/Kotlin-2d3748?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=1a202c" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Swift-2d3748?style=flat-square&logo=swift&logoColor=F05138&labelColor=1a202c" alt="Swift" />
-  <img src="https://img.shields.io/badge/Flutter-2d3748?style=flat-square&logo=flutter&logoColor=02569B&labelColor=1a202c" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-2d3748?style=flat-square&logo=dart&logoColor=0175C2&labelColor=1a202c" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-2d3748?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1a202c" alt="JavaScript" />
-</p>
-
-<p align="left">
-  <strong>Engines, Graphics & Simulation</strong><br>
-  <img src="https://img.shields.io/badge/Unity_3D-2d3748?style=flat-square&logo=unity&logoColor=ffffff&labelColor=1a202c" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-2d3748?style=flat-square&logo=unrealengine&logoColor=ffffff&labelColor=1a202c" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Godot-2d3748?style=flat-square&logo=godotengine&logoColor=478CBF&labelColor=1a202c" alt="Godot" />
-  <img src="https://img.shields.io/badge/Omniverse-2d3748?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=1a202c" alt="Omniverse" />
-  <img src="https://img.shields.io/badge/OpenGL-2d3748?style=flat-square&logo=opengl&logoColor=5586A4&labelColor=1a202c" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Qt-2d3748?style=flat-square&logo=qt&logoColor=41CD52&labelColor=1a202c" alt="Qt" />
-  <img src="https://img.shields.io/badge/Blender-2d3748?style=flat-square&logo=blender&logoColor=E87D0D&labelColor=1a202c" alt="Blender" />
-  <img src="https://img.shields.io/badge/MuJoCo-2d3748?style=flat-square&labelColor=1a202c" alt="MuJoCo" />
-</p>
-
-<p align="left">
-  <strong>Platforms & Infrastructure</strong><br>
-  <img src="https://img.shields.io/badge/Android_Automotive_(AAOS)-2d3748?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1a202c" alt="AAOS" />
-  <img src="https://img.shields.io/badge/XR_(Meta_Quest_/_HoloLens_2)-2d3748?style=flat-square&logo=meta&logoColor=0081FB&labelColor=1a202c" alt="XR" />
-  <img src="https://img.shields.io/badge/Azure_Digital_Twins-2d3748?style=flat-square&logo=microsoftazure&logoColor=0078D4&labelColor=1a202c" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2d3748?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1a202c" alt="Docker" />
-  <img src="https://img.shields.io/badge/Jenkins-2d3748?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=1a202c" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/CMake-2d3748?style=flat-square&logo=cmake&logoColor=064F8C&labelColor=1a202c" alt="CMake" />
-  <img src="https://img.shields.io/badge/Git-2d3748?style=flat-square&logo=git&logoColor=F05032&labelColor=1a202c" alt="Git" />
-</p>
-
----
-
-### Public Repositories & Implementations
+## Public projects
 
 <table>
   <thead>
@@ -68,6 +28,20 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/dj-DeepakJadhav/Thingwhy"><b>ThingWhy</b></a><br>
+        <code>TypeScript</code> <code>Lens Studio</code> <code>Snap Specs</code><br>
+        <a href="https://youtu.be/jn3gJTsNQvM"><b>Watch the demo</b></a>
+      </td>
+      <td>Pinch a pen cap, pull a zipper, toggle earbud noise cancellation, or squeeze a spray trigger. Each lesson lets you predict what happens next, replay the mechanism in cutaway, and test a fix. Verified in Lens Studio Preview.</td>
+      <td>Spatial interaction<br>AR education</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dj-DeepakJadhav/Talkloom"><b>Talkloom</b></a></td>
+      <td>German practice built around content the learner brings to the app.</td>
+      <td>Language learning</td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/dj-DeepakJadhav/chumi"><b>Chumi: Chat Came Over</b></a><br>
@@ -157,6 +131,46 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+### Technical Skills
+
+<p align="left">
+  <strong>Languages & Frameworks</strong><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-2d3748?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=1a202c" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-2d3748?style=flat-square&logo=csharp&logoColor=239120&labelColor=1a202c" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-2d3748?style=flat-square&logo=python&logoColor=3776AB&labelColor=1a202c" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-2d3748?style=flat-square&logo=go&logoColor=00ADD8&labelColor=1a202c" alt="Go" />
+  <img src="https://img.shields.io/badge/Kotlin-2d3748?style=flat-square&logo=kotlin&logoColor=7F52FF&labelColor=1a202c" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-2d3748?style=flat-square&logo=swift&logoColor=F05138&labelColor=1a202c" alt="Swift" />
+  <img src="https://img.shields.io/badge/Flutter-2d3748?style=flat-square&logo=flutter&logoColor=02569B&labelColor=1a202c" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-2d3748?style=flat-square&logo=dart&logoColor=0175C2&labelColor=1a202c" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-2d3748?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1a202c" alt="JavaScript" />
+</p>
+
+<p align="left">
+  <strong>Engines, Graphics & Simulation</strong><br>
+  <img src="https://img.shields.io/badge/Unity_3D-2d3748?style=flat-square&logo=unity&logoColor=ffffff&labelColor=1a202c" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-2d3748?style=flat-square&logo=unrealengine&logoColor=ffffff&labelColor=1a202c" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Godot-2d3748?style=flat-square&logo=godotengine&logoColor=478CBF&labelColor=1a202c" alt="Godot" />
+  <img src="https://img.shields.io/badge/Omniverse-2d3748?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=1a202c" alt="Omniverse" />
+  <img src="https://img.shields.io/badge/OpenGL-2d3748?style=flat-square&logo=opengl&logoColor=5586A4&labelColor=1a202c" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Qt-2d3748?style=flat-square&logo=qt&logoColor=41CD52&labelColor=1a202c" alt="Qt" />
+  <img src="https://img.shields.io/badge/Blender-2d3748?style=flat-square&logo=blender&logoColor=E87D0D&labelColor=1a202c" alt="Blender" />
+  <img src="https://img.shields.io/badge/MuJoCo-2d3748?style=flat-square&labelColor=1a202c" alt="MuJoCo" />
+</p>
+
+<p align="left">
+  <strong>Platforms & Infrastructure</strong><br>
+  <img src="https://img.shields.io/badge/Android_Automotive_(AAOS)-2d3748?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1a202c" alt="AAOS" />
+  <img src="https://img.shields.io/badge/XR_(Meta_Quest_/_HoloLens_2)-2d3748?style=flat-square&logo=meta&logoColor=0081FB&labelColor=1a202c" alt="XR" />
+  <img src="https://img.shields.io/badge/Azure_Digital_Twins-2d3748?style=flat-square&logo=microsoftazure&logoColor=0078D4&labelColor=1a202c" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2d3748?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1a202c" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-2d3748?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=1a202c" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/CMake-2d3748?style=flat-square&logo=cmake&logoColor=064F8C&labelColor=1a202c" alt="CMake" />
+  <img src="https://img.shields.io/badge/Git-2d3748?style=flat-square&logo=git&logoColor=F05032&labelColor=1a202c" alt="Git" />
+</p>
 
 ---
 
